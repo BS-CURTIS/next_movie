@@ -2,6 +2,7 @@
   "name": "movie",
   "version": "0.1.0",
   "private": true,
+  "homepage": "next-movie-kbfaqbo5b-bs-curtis.vercel.app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

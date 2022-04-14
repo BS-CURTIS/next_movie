@@ -5,6 +5,7 @@ const nextConfig = {
   images: {
     domains: ["yts.torrentbay.to"],
   },
+  plugins: [["babel-plugin-styled-components"]],
 };
 
 module.exports = nextConfig;
