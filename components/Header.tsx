@@ -1,7 +1,8 @@
 import dynamic from "next/dynamic";
 import Head from "next/head";
+import Nav from "./nav";
 
-const Nav = dynamic(() => import("./nav"), { ssr: false });
+// const Nav = dynamic(() => import("./nav"), { ssr: false });
 const Header = () => {
   return (
     <>
