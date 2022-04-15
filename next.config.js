@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["yts.torrentbay.to"],
+    domains: ["yts.torrentbay.to", "i.imgflip.com"],
   },
 };
 
